@@ -17,7 +17,7 @@ require (
 	github.com/mattn/go-isatty v0.0.4 // indirect
 	github.com/mattn/go-sqlite3 v1.10.0
 	github.com/moul/http2curl v1.0.0 // indirect
-	github.com/parnurzeal/gorequest v0.2.15
+	github.com/parnurzeal/gorequest v0.2.16
 	github.com/pkg/errors v0.0.0-20180311214515-816c9085562c // indirect
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
 	github.com/smartystreets/goconvey v0.0.0-20190710185942-9d28bd7c0945
